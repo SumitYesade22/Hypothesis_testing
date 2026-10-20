@@ -132,9 +132,9 @@ Hypothesis_testing/
 
 ## 📖 Blog
 
-Detailed explanations and additional insights related to hypothesis testing:
+Read the complete guide to hypothesis testing:
 
-**Blog:** [https://medium.com/@sumityesade14/hypothesis-testing-from-scratch-a-complete-guide-for-data-science-5eb3ab401f2a?sharedUserId=sumityesade14](blog)
+[Hypothesis Testing from Scratch: A Complete Guide for Data Science](https://medium.com/@sumityesade14/hypothesis-testing-from-scratch-a-complete-guide-for-data-science-5eb3ab401f2a)
 
 ## 🎯 Objective
 
