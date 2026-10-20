@@ -132,7 +132,7 @@ Hypothesis_testing/
 
 ## 📖 Blog
 
-Read the complete guide to hypothesis testing:
+Read the complete guide to hypothesis testing published by me :
 
 [Hypothesis Testing from Scratch: A Complete Guide for Data Science](https://medium.com/@sumityesade14/hypothesis-testing-from-scratch-a-complete-guide-for-data-science-5eb3ab401f2a)
 
